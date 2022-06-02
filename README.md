@@ -6,7 +6,6 @@ As part of this initiative, I have been involved with this over the Fall 2021 an
 
 ## Lectures
 
-|------|----------------------------|
 | Lec  | Topic                      |
 |------|----------------------------|
 | 0  | Topic                      |
@@ -16,4 +15,3 @@ As part of this initiative, I have been involved with this over the Fall 2021 an
 | 4  | Topic                      |
 | 5  | Topic                      |
 | 6  | Topic                      |
-|------|----------------------------|
