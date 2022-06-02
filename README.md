@@ -8,8 +8,9 @@ As part of this initiative, I have been involved with this over the Fall 2021 an
 
 | Lec  | Topic                      |
 |------|----------------------------|
-| 1  | What is Data Science?, Project Management, Communication                     |
-| 2 | Research Questions & Reading Research                      |
+| 0  | What is Data Science?, Project Management, Communication                     |
+| 1 | Research Questions & Reading Research                      |
+| 2 | Advancing: Jobs & Graduate School                      |
 | 4  | Technical Foundations                     |
 | 5  | The Alignment Problem: Tech and Values                      |
 | 6  | Deploying Data Science & Writing*                      |
